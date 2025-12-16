@@ -8,8 +8,6 @@ This repository contains the source code of my portfolio, designed to showcase m
 
 I built this website to document my learning journey and display my works. It features a clean, responsive design and highlights my expertise in both frontend and backend development.
 
-**Live Demo:** [Masukan Link Website Kamu Di Sini]
-
 ## 🛠️ Tech Stack
 
 This project is built using:
