@@ -14,10 +14,10 @@ I built this website to document my learning journey and display my works. It fe
 
 This project is built using:
 
-- **Framework:** React.js / Next.js (Pilih salah satu)
-- **Styling:** Tailwind CSS / Bootstrap (Pilih salah satu)
-- **Animation:** AOS / Framer Motion (Jika ada)
-- **Deployment:** Vercel / Netlify
+- **Framework:** React.js (v19) + Vite
+- **Styling:** Tailwind CSS
+- **Animation:** AOS (Animate On Scroll) & Animate.css
+- **Icons:** Remixicon
 
 ## 📂 Featured Projects inside the Portfolio
 
